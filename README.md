@@ -22,3 +22,12 @@ Disjointly connect 2 MacBook to each other using a Linux machine supporting blue
 - Device Clients/Handler (Mouse,keyboard,webcam,mic,yubikey)
 
   - Sense inputs data from physical/real devices on the laptop --> transmit data to Raspberry Pi
+
+
+
+## Final Configurations
+
+- dockerize the program
+- reset the raspberry pi to headless version 
+- add ssh from pi to personal laptop
+- allow for program restart (in case of error/failure)

@@ -1,0 +1,26 @@
+Notes on Sensors/Devices Communicated
+
+1. Mouse/Trackpad 
+
+2. Keyboard
+
+3. Yubikey
+
+
+
+6. Audio-In (Personal Mic)
+
+7. Audio-Out (Work Speaker)
+
+
+
+
+
+4. Personal Webcam
+
+5. Pi Webcam (show Work screen) - or better screen sharing over bluetooth
+
+
+
+
+
